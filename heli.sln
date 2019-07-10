@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "heli", "heli\heli.vcxproj", "{629E3699-FBD9-4282-A294-63C997B5820B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{629E3699-FBD9-4282-A294-63C997B5820B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{629E3699-FBD9-4282-A294-63C997B5820B}.Debug|Win32.Build.0 = Debug|Win32
+		{629E3699-FBD9-4282-A294-63C997B5820B}.Release|Win32.ActiveCfg = Release|Win32
+		{629E3699-FBD9-4282-A294-63C997B5820B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
